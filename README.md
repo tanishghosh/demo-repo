@@ -10,7 +10,7 @@
 
 ***
 
-<div style="margin-top:-20px;margin-bottom:-60px;font-size:14px;"><h2>Full Stack Developer<h2></div>
+okok
 
 -----
 
