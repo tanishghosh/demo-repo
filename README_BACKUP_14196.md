@@ -10,9 +10,13 @@
 
 ***
 
-
+<<<<<<< HEAD
 okok
+=======
+<div style="margin-top:-20px;margin-bottom:-60px;font-size:14px;"><h2>Full Stack Developer<h2></div>
+>>>>>>> Revert "removed README"
 
+-----
 
 #### Strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, JavaScript and C++ . Passionate about implementing and launching new projects. Have a keen interest in Data Science.
 

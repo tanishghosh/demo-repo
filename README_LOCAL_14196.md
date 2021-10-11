@@ -10,9 +10,9 @@
 
 ***
 
-
 okok
 
+-----
 
 #### Strong in design and integration with intuitive problem-solving skills. Proficient in HTML, CSS, JavaScript and C++ . Passionate about implementing and launching new projects. Have a keen interest in Data Science.
 
